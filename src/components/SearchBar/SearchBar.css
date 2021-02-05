@@ -1,0 +1,20 @@
+.searchBar {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 10vh;
+}
+
+.searchBar__form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 50%;
+}
+
+.searchBar__form Button {
+    margin-left: 25px;
+}

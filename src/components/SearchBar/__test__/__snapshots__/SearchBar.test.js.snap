@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React Redux component Render without crashing 1`] = `
+<div
+  className="searchBar"
+>
+  <form
+    className="searchBar__form"
+    onSubmit={[Function]}
+  >
+    <input
+      className="form-control"
+      onChange={[Function]}
+      placeholder="Insert Text"
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="submit"
+    >
+      Send
+    </button>
+  </form>
+</div>
+`;
